@@ -1,15 +1,9 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.example.navmaples",
-      "sha256_cert_fingerprints": [
-         "C8:07:E0:07:56:F9:8F:5D:5C:A6:30:A9:54:27:8B:00:C9:32:D8:98:95:6A:8D:38:A0:34:48:B6:DD:79:BD:E3",
-         "1D:28:A9:8C:83:AB:5D:DC:AE:1C:3A:6C:58:1F:70:6D:95:E6:3A:56:C2:FD:0F:42:E7:9D:CB:DD:40:30:4D:62"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.navmaples",
+    "sha256_cert_fingerprints":
+    ["C8:07:E0:07:56:F9:8F:5D:5C:A6:30:A9:54:27:8B:00:C9:32:D8:98:95:6A:8D:38:A0:34:48:B6:DD:79:BD:E3"]
   }
-]
+}]
